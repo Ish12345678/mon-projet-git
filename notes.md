@@ -1,0 +1,3 @@
+- Idée 1 : Application mobile innovante
+- Idée 2 : Plateforme d'apprentissage en ligne
+- Idée 3 : Outil d'automatisation des tâches répétitives
