@@ -1,7 +1,7 @@
 Ceci est un fichier de démonstration.
-<<<<<<< HEAD
+
 Cette ligne a été modifiée dans conflict-a.
-=======
+
 Cette ligne a été modifiée dans conflict-b.
->>>>>>> conflict-b
+
 Une autre ligne de texte.
