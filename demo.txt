@@ -1,3 +1,5 @@
+# Modifiez demo.txt sur la branche conflict-a
+
 Ceci est un fichier de démonstration.
 
 Cette ligne a été modifiée dans conflict-a.
